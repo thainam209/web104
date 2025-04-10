@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "KlPR8qBI+yHRvnYdSf87GSUq0+GsE/QVsTtDG6cLoCc=",
+  "Source": "ProductApi",
+  "BasePath": "_content/ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductApi\\wwwroot",
+      "Source": "ProductApi",
+      "ContentRoot": "C:\\Users\\DELL\\OneDrive\\Máy tính\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\OneDrive\\Máy tính\\ProductApi\\wwwroot\\index.html",
+      "SourceId": "ProductApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\OneDrive\\Máy tính\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
